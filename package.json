@@ -1,0 +1,14 @@
+{
+  "name": "mars-flexible",
+  "version": "0.1.0",
+  "description": "移动端自适应方案",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "flexible"
+  ],
+  "author": "Wang Xiao <wanngxiao@gmail.com> (http://muyao.me)",
+  "license": "ISC"
+}
