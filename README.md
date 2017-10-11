@@ -1,4 +1,4 @@
-# Mars-flexible [![NPM version][npm-image]][npm-url]
+# mars-flexible [![NPM version][npm-image]][npm-url]
 
 移动端自适应库，执行这个 js 后，会在 html（也就是document.documentElement）上增加一个 data-dpr 属性，以及 font-size 样式。之后页面中的元素，都可以用 rem 单位来设置。html 上的 font-size 就是 rem 的基准像素。
 
