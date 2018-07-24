@@ -44,9 +44,9 @@
      * 目前主流手机最大的css像素尺寸，是540（比如devicePixelRatio为2，分辨率是1080x1920的手机），所以用了这个经验值。
      * 这样可以让在ipad横屏这种情况下浏览无线页面，不至于因为拉伸适配后体验太差。
      */
-    if (width > 540) {
-      width = 540;
-    }
+    // if (width > 540) {
+    //   width = 540;
+    // }
     var rem = width / 10;
     docEl.style.fontSize = rem + 'px';
   }
